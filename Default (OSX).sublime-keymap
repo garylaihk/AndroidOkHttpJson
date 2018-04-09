@@ -1,0 +1,3 @@
+[
+	{ "keys": ["super+alt+j"], "command": "android_ok_http_json" }
+]
